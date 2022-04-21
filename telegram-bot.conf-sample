@@ -1,0 +1,15 @@
+[telegram]
+enabled=true
+token = # talk to botfather
+base_url = https://api.telegram.org/bot
+
+[homeassistant]
+enabled=true
+token = # hass token
+url = http://localhost:8123/api/states/
+
+[qbitorrent]
+enabled=true
+host = localhost:8080
+username = admin
+password = adminadmin
